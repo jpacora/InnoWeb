@@ -1,0 +1,43 @@
+@media only screen and (max-width: 1060px) and (min-width: 768px) {
+	.siteHeaderContain { width:auto;}
+	.homePanel {  }
+    .siteNav .bigNav { width:510px; height:60px; padding-top:7px; }
+		.siteNav .bigNav li {border:none;  }
+		 .siteNav .bigNav li a {font-size:0.85em; background-position:0% 0%; height: 36px; padding-top:0; padding-left:45px; line-height:40px; width:150px;}
+	.ie7 .siteNav .bigNav li a {padding-left:0px; width:140px; background-image:none; }
+			.siteNav .bigNav li a:hover { background-position:0% -80px; }
+			.siteNav .active a { border:none; background-position:0% -80px !important; color: #62dcff; }
+	.smallNav h3 { bottom: 30px; }
+	.smallNavMenu ul { top: 125px; }
+	.panelContentContain { width:90%;}
+	.bgContentContain {height:100%;  padding-bottom:90px;  }
+	.upcomingInfo h1 {width:100%; height:auto; min-height:150px; background-size:contain; float:none; margin:0 auto; background-position:center; margin-bottom:20px;}
+	.upcomingInfo h2 { float:none; text-align:center; width:100%; margin:0 auto; padding-bottom:40px; height:auto;}
+	.mapSectionContent h3 { font-size: 35px; text-transform: uppercase;  margin-bottom:40px;}
+	.mapSectionContent {width:100%; }
+	.introText {width:100%;  }
+		.introText p { font-size:1.6em;}
+	.socialMediaIcons {margin:0 auto; float:none; width:300px; }
+		.socialMediaIcons li {margin-bottom:20px; }
+	.mapSectionMap { float:none; margin:0 auto; }
+	h3 { text-align:center; font-size:1.8em;}
+	.moreVenuesList { }
+		.moreVenuesList li {  display:inline; float:none; font-size:18px !important; }
+			.moreVenuesList li a { line-height:35px;  font-size:18px !important;}
+	.venuesCategoryList, .sponsorOptions, .participateOptions, .travelingOptions { text-align:center;}
+	.venuesCategory, .sponsorOptionBckt, .participateOptionBckt, .travelOptionBckt{ display:inline-block;float:none; margin-bottom:20px; vertical-align:top;}
+	.ie7 .venuesCategory, .ie7 .sponsorOptionBckt, .ie7 .participateOptionBckt, .ie7 .travelOptionBckt { display: inline; }
+		.ie7 .galleryWrapperLeft .thumbGallery li, .ie7 .galleryWrapperRight .thumbGallery li { display:inline;}
+	.artistCategoryGroup { line-height: 0; -webkit-column-count: 3; -moz-column-count: 3;  column-count: 3; }
+	.venueHighlights { float:none; width:100%; margin-bottom:40px;}
+	.venueHighlights li {display:inline-block; list-style:disc;  font-size:18px; padding: 0 5px; border-right: 1px solid #fff; }
+	.venueHighlights li:last-child { border: 0; }
+	.galleryWrapperLeft, .galleryWrapperRight { width: 100%; float: none; text-align:center; }
+		
+		.galleryWrapperLeft .thumbGallery li,.galleryWrapperRight .thumbGallery li {float:none;  display:inline-block; }
+
+	.galleryVidRight, .galleryVidLeft {float:none;  text-align:center;  width:640px;  height:360px; margin:0px auto 30px auto;}
+	.mediaGalleryWrapper iframe { width:640px;  height:360px;  }
+	.sponsorHighlights { width:100% !important; margin-bottom:40px;}
+}
+

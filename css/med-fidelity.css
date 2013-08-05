@@ -1,0 +1,24 @@
+.homePanel { background: #222 url(../images/home-banner-2.jpg) no-repeat center center;   -webkit-background-size: cover; -moz-background-size: cover; -o-background-size: cover; background-size: cover; }
+.homePanelWithParallax {background-attachment:fixed;  top:0;}
+.homePanelContent { background: url(../images/slides/home/watercolor-main.png) no-repeat;}
+.homeSlideText h1 { background: url(../images/slides/home/jacksonville-downtown-artwalk.png); }
+.homeSlideText h3.homeRoS {background: url(../images/slides/home/rain-or-shine.png) no-repeat; }
+h3.homeDowntownVision { background: url(../images/slides/home/downtown-vision-logo.png) no-repeat; }
+
+.panelMapTopBG { background: url(../images/slides/upcoming/bg-panel-one-top-3.png);}
+.venuesPanelTopBG { background-image: url(../images/slides/venues/bg-panel-two-top.png); }
+.artistsPanelTopBG{background-image: url(../images/slides/artists/bg-panel-three-top.png);}
+.gettingAroundPanelTopBG { background-image: url(../images/slides/gettingaround/bg-panel-getting-around-top-2.png); }
+.mediaPanelTopBG {background-image: url(../images/slides/media/bg-panel-media-top.png); }
+.participatePanelTopBG {  background-image: url(../images/slides/participate/bg-panel-participate-top.png); }
+.sponsorsPanelTopBG {  background-image: url(../images/slides/sponsors/bg-panel-sponsors-top.png); }
+
+.bgContentContain { background: #d7391e url(../images/slides/shared/orange-distress.jpg) !important; }
+.bgContentContainPanelVenues { background: #ab2b17 url(../images/slides/venues/orange-distress.jpg) !important;}
+.bgContentContainPanelArtists { background: #d7391e url(../images/slides/shared/orange-distress.jpg) !important;  }
+.bgContentContainPanelGettingAround { background: #0d7296 url(../images/slides/gettingaround/blue-distress.png) !important; }
+.bgContentContainPanelMedia { background: #471249 url(../images/slides/media/purple-distress.png) !important;}
+.bgContentContainPanelParticipate {background: #ac242e url(../images/slides/shared/red-distress.jpg) !important; }
+.bgContentContainPanelSponsors {  background: #008286 url(../images/slides/shared/green-distress.jpg) !important;}
+
+

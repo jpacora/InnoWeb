@@ -1,0 +1,64 @@
+@media only screen and (max-width: 767px) {
+	.siteHeaderContain { width: auto; height: 85px; background: #000; position: relative; z-index: 100; }
+	.siteHeader { background: #000; height: 85px; }
+
+	.homeLogo { margin-left: 10px; float: left; width: 150px; padding-top: 5px; }
+	.homePanel { margin-top: 84px; }
+	.ie7 .homePanel img{ display:block !important; }
+		.homePanel img { width: 100%; }
+		.smallNav, .smallNavMenu { display: block; }
+	.upcomingInfo h1 { background: url(../images/mobile/upcoming-artwalk.png) no-repeat; width: 100%; height: 100px; min-height: 150px; background-size: contain; float: none; margin: 0 auto; background-position: center; margin-bottom: 10px; }
+	.ie8 .upcomingInfo h1 {background:none; text-indent:0;  font-size:62px; }
+	.mobileMap { margin-bottom: 20px; margin-left: -30px; width: 90%; }
+	.artistsPanel .panelContentContain, .venuesPanel .panelContentContain, .upcomingMapPanel .panelContentContain { padding-top: 20px; }
+	.mapSectionContent { text-align: center;  width: 100%; }
+		.mapSectionContent h2 { line-height: 1em; text-align: center; }
+	.panelContentContain h1 { line-height: 1em; text-align: center; }
+	.mapSectionMap { width: 80%;  float: none; margin: 0 auto; text-align: center; }
+	.artistCategoryGroup { text-align: center; column-count: auto; -webkit-column-count: auto; -moz-column-count: auto; }
+	.artistCategory img { margin-left: 0px; }
+		.artistCategory li { font-size: 16px; }
+	.moreVenuesList li { display: block; float: none; text-align: center; width: 100%; }
+	.sponsorOptionBckt { margin-left: 0; }
+	.venuesCategoryList, .sponsorOptions, .participateOptions, .travelingOptions { text-align: center; }
+	.venuesCategory, .sponsorOptionBckt, .participateOptionBckt, .travelOptionBckt { display: inline-block; float: none; margin-bottom: 20px; vertical-align: top; }
+	.venueHighlights { float: none; width: 100%; margin-bottom: 40px; }
+		.venueHighlights li { display: inline-block; list-style: disc; font-size: 18px; }
+	
+	.bgContentContainPanelSponsors, .bgContentContainPanelParticipate, .bgContentContainPanelMedia, .bgContentContainPanelGettingAround { margin-top: 0; }
+	.participateTitle, .sponsorTitle, .mediaPageTitle, .getAroundTitle { width: auto; }
+		.sponsorPanel h5 a, .participateTitle h1, .sponsorTitle h1, .mediaPageTitle h1, .getAroundTitle h1 { -moz-background-size: contain; -o-background-size: contain; -webkit-background-size: contain; background-size: contain; width: 100%; }
+	.mediaGalleryWrapper iframe { width: 100%; min-height: 200px; }
+	.galleryVidRight, .galleryVidLeft { width: 80%; float: none; text-align: center; margin: 0px auto 30px auto; }
+	.galleryWrapperLeft, .galleryWrapperRight { width: 100%; float: none; text-align: center; }
+		.galleryWrapperLeft .thumbGallery li, .galleryWrapperRight .thumbGallery li { float: none; display: inline-block; }
+	.homeNavItem { display: block; }
+	.homeAnchor { width: 1px; height: 1px; }
+	.introText { width: 100%; }
+	.sponsorPanel .contactUs { width: 100%; clear:both;}
+	.sponsorHighlights { width:100% !important;}
+	.ie7 .venuesCategory, .ie7 .sponsorOptionBckt, .ie7 .participateOptionBckt, .ie7 .travelOptionBckt { display: inline; }
+		.ie7 .galleryWrapperLeft .thumbGallery li, .ie7 .galleryWrapperRight .thumbGallery li { display:inline;}
+	.smallNav h3 {display:block !important; }
+	/*Hide for now, Do Not Download*/
+	
+	.homeSlideText { display: none; }
+	.homePanelContent { display: none; }
+
+	
+	.panelContentContain { width: 90%; }
+	.bgContentContain { height: 100%; padding-bottom: 90px; }
+	.upcomingInfo h2 { font-size: 44px; text-transform: uppercase; float: none; padding-left: 0; text-align: center; width: 100%; margin: 0 auto; padding-bottom: 20px; height: auto; }
+		.upcomingInfo h2 span { display: block; font-size: 44px; }
+	.mapSectionContent h3 { font-size: 35px; text-transform: uppercase; margin-bottom: 40px; }
+	
+		.introText p { font-size: 1.6em; }
+	.socialMediaIcons { margin: 0 auto; float: none; width: 300px; }
+		.socialMediaIcons li { margin-bottom: 20px; }
+	h3 { text-align: center; font-size: 1.8em; }
+
+	h4.venueCategory { text-align: center;}
+
+
+	
+}
